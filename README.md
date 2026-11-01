@@ -9,6 +9,8 @@ brew install roxguel/tap/gdt
 
 Or in one step: `brew install roxguel/tap/gdt`.
 
+If Homebrew refuses to load a formula from an untrusted tap, trust this one with `brew trust roxguel/tap`.
+
 | Formula | What it is |
 |---|---|
 | `gdt` | [Godot Development Tools](https://gdt.roxguel.dev): version manager, addon manager and test runner for Godot. macOS and Linux, arm64 and Intel. |
